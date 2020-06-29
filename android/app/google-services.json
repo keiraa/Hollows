@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771067322219",
+    "firebase_url": "https://hollow-f9ab3.firebaseio.com",
+    "project_id": "hollow-f9ab3",
+    "storage_bucket": "hollow-f9ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771067322219:android:c8e757e4f655750551f62e",
+        "android_client_info": {
+          "package_name": "com.appovate.hollows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771067322219-c631p9p8ul8u4l9smgmntd969cemgg2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPrcG4mi-6rkB0PP7jFpfUZyTK93PRWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771067322219-c631p9p8ul8u4l9smgmntd969cemgg2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
